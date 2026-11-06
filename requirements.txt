@@ -1,0 +1,9 @@
+numpy>=1.26.0
+soundcard>=0.4.3
+faster-whisper>=1.1.0
+openai>=1.40.0
+python-dotenv>=1.0.1
+customtkinter>=5.2.2
+Pillow>=10.0.0
+pyinstaller>=6.0.0
+# NVIDIA 显卡加速 Whisper：cublas64_12.dll / cublasLt64_12.dll 放在 tools\cuda\（不走 pip，避免占 C 盘）

@@ -1,0 +1,10 @@
+{
+  "deepseek_api_key": "",
+  "deepseek_base_url": "http://127.0.0.1:7863/v1",
+  "deepseek_model": "deepseek-v4.1-flash",
+  "reasoning_effort": "off",
+  "capture_mode": "simul",
+  "translate_mode": "ja2zh",
+  "cached_models": [],
+  "whisper_model": "auto"
+}
